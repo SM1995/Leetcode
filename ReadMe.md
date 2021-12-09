@@ -2,26 +2,34 @@ Questions added:
 
 # Binary Search
 
-
+#### 162. Find Peak Element
+#### 278. First Bad Version
+#### 528. Random Pick with Weight
 
 # Divide and Conquer
 
-
+#### 215. Kth Largest Element in an Array
+#### 23. Merge k Sorted Lists
+#### 973. K Closest Points to Origin
 
 # Dynamic Programming
 
-
+#### 1137. N-th Tribonacci Number
+#### 509. Fibonacci Number
+#### 70. Climbing Stairs
 
 # Greedy
 
-
+#### 921. Minimum Add to Make Parentheses Valid
 
 # Prefix Sum
 
-
+#### 238. Product of Array Except Self
+#### 560. Subarray Sum Equals K
 
 # Recursion
 
+#### 50. Pow(x, n)
 
 # Tree
 
