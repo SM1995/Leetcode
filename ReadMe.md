@@ -22,6 +22,7 @@
 ## Greedy
 
 #### 921. Minimum Add to Make Parentheses Valid
+#### 670. Maximum Swap
 
 ## Prefix Sum
 
@@ -47,7 +48,7 @@
 #### 88. Merge Sorted Array
 #### 977. Squares of a Sorted Array
 #### 1963. Minimum Number of Swaps to Make the String Balanced
-#### 
+#### 42. Trapping Rain Water
 
 ## String
 
@@ -59,5 +60,6 @@
 ## Others
 #### 1249. Minimum Remove to Make Valid Parentheses
 #### 227. Basic Calculator II
-
+#### 766. Toeplitz Matrix
 #### 56. Merge Intervals
+#### 636. Exclusive Time of Functions
