@@ -11,6 +11,7 @@
 #### 215. Kth Largest Element in an Array
 #### 23. Merge k Sorted Lists
 #### 973. K Closest Points to Origin
+#### 347. Top K Frequent Elements
 
 ## Dynamic Programming
 
@@ -37,6 +38,7 @@
 #### 199.Binary Tree Right Side View
 #### 236. Lowest Common Ancestor of a Binary Tree
 #### 938. Range Sum of BST
+#### 173. Binary Search Tree Iterator
 
 ## Two Pointers
 
@@ -44,6 +46,10 @@
 #### 680. Valid Palindrome II
 #### 88. Merge Sorted Array
 #### 977. Squares of a Sorted Array
+
+## String
+
+#### 953. Verifying an Alien Dictionary
 
 ## Others
 #### 1249. Minimum Remove to Make Valid Parentheses
