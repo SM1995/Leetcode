@@ -46,13 +46,18 @@
 #### 680. Valid Palindrome II
 #### 88. Merge Sorted Array
 #### 977. Squares of a Sorted Array
+#### 1963. Minimum Number of Swaps to Make the String Balanced
+#### 
 
 ## String
 
 #### 953. Verifying an Alien Dictionary
+#### 1047. Remove All Adjacent Duplicates In String
+#### 791. Custom Sort String
+#### 415. Add Strings
 
 ## Others
 #### 1249. Minimum Remove to Make Valid Parentheses
 #### 227. Basic Calculator II
-#### 415. Add Strings
+
 #### 56. Merge Intervals
