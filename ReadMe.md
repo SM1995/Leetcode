@@ -18,6 +18,7 @@
 #### 1137. N-th Tribonacci Number
 #### 509. Fibonacci Number
 #### 70. Climbing Stairs
+#### 139. Word Break
 
 ## Greedy
 
@@ -40,6 +41,7 @@
 #### 236. Lowest Common Ancestor of a Binary Tree
 #### 938. Range Sum of BST
 #### 173. Binary Search Tree Iterator
+#### 543. Diameter of Binary Tree
 
 ## Two Pointers
 
@@ -56,6 +58,7 @@
 #### 1047. Remove All Adjacent Duplicates In String
 #### 791. Custom Sort String
 #### 415. Add Strings
+#### 71. Simplify Path
 
 ## Others
 #### 1249. Minimum Remove to Make Valid Parentheses
