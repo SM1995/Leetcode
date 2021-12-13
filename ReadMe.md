@@ -29,6 +29,7 @@
 
 #### 238. Product of Array Except Self
 #### 560. Subarray Sum Equals K
+#### 523. Continuous Subarray Sum
 
 ## Recursion
 
@@ -66,3 +67,4 @@
 #### 766. Toeplitz Matrix
 #### 56. Merge Intervals
 #### 636. Exclusive Time of Functions
+#### 1. Two Sum
