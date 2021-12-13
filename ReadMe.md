@@ -43,6 +43,7 @@
 #### 938. Range Sum of BST
 #### 173. Binary Search Tree Iterator
 #### 543. Diameter of Binary Tree
+#### 314. Binary Tree Vertical Order Traversal
 
 ## Two Pointers
 
@@ -52,6 +53,8 @@
 #### 977. Squares of a Sorted Array
 #### 1963. Minimum Number of Swaps to Make the String Balanced
 #### 42. Trapping Rain Water
+#### 408. Valid Word Abbreviation
+#### 1570. Dot Product of Two Sparse Vectors
 
 ## String
 
@@ -60,6 +63,11 @@
 #### 791. Custom Sort String
 #### 415. Add Strings
 #### 71. Simplify Path
+
+## Array
+
+#### 1762. Buildings With an Ocean View
+#### 249. Group Shifted Strings
 
 ## Others
 #### 1249. Minimum Remove to Make Valid Parentheses
