@@ -8,6 +8,7 @@
 #### 34. Find First and Last Position of Element in Sorted Array
 #### 153. Find Minimum in Rotated Sorted Array
 #### 33. Search in Rotated Sorted Array
+#### 110. Balanced Binary Tree
 
 ## Divide and Conquer
 
@@ -47,6 +48,8 @@
 #### 173. Binary Search Tree Iterator
 #### 543. Diameter of Binary Tree
 #### 314. Binary Tree Vertical Order Traversal
+#### 112. Path Sum
+#### 110. Balanced Binary Tree
 
 ## Two Pointers
 
@@ -59,6 +62,7 @@
 #### 408. Valid Word Abbreviation
 #### 1570. Dot Product of Two Sparse Vectors
 #### 344. Reverse String
+#### 443. String Compression
 
 ## String
 
@@ -68,6 +72,8 @@
 #### 415. Add Strings
 #### 71. Simplify Path
 #### 242. Valid Anagram
+#### 1668. Maximum Repeating Substring
+#### 1249. Minimum Remove to Make Valid Parentheses
 
 ## Array
 
@@ -76,6 +82,10 @@
 #### 1497. Check If Array Pairs Are Divisible by k
 #### 136. Single Number
 #### 268. Missing Number
+#### 56. Merge Intervals
+#### 766. Toeplitz Matrix
+#### 636. Exclusive Time of Functions
+#### 1. Two Sum
 
 ## Linked List
 
@@ -87,19 +97,25 @@
 #### 876. Middle of the Linked List
 #### 21. Merge Two Sorted Lists
 #### 148. Sort List
+#### 203. Remove Linked List Elements
+#### 707. Design Linked List
+#### 160. Intersection of Two Linked Lists
 
 ## Math
 
 #### 9. Palindrome Number
+#### 69. Sqrt(x)
+#### 227. Basic Calculator II
 
 ## Graph
 
 #### 200. Number of Islands
 
-## Others
-#### 1249. Minimum Remove to Make Valid Parentheses
-#### 227. Basic Calculator II
-#### 766. Toeplitz Matrix
-#### 56. Merge Intervals
-#### 636. Exclusive Time of Functions
-#### 1. Two Sum
+## Sliding Window
+
+#### 239. Sliding Window Maximum
+
+## Design
+
+#### 706. Design HashMap
+#### 705. Design HashSet
