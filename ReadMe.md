@@ -5,6 +5,9 @@
 #### 162. Find Peak Element
 #### 278. First Bad Version
 #### 528. Random Pick with Weight
+#### 34. Find First and Last Position of Element in Sorted Array
+#### 153. Find Minimum in Rotated Sorted Array
+#### 33. Search in Rotated Sorted Array
 
 ## Divide and Conquer
 
@@ -55,6 +58,7 @@
 #### 42. Trapping Rain Water
 #### 408. Valid Word Abbreviation
 #### 1570. Dot Product of Two Sparse Vectors
+#### 344. Reverse String
 
 ## String
 
@@ -63,11 +67,34 @@
 #### 791. Custom Sort String
 #### 415. Add Strings
 #### 71. Simplify Path
+#### 242. Valid Anagram
 
 ## Array
 
 #### 1762. Buildings With an Ocean View
 #### 249. Group Shifted Strings
+#### 1497. Check If Array Pairs Are Divisible by k
+#### 136. Single Number
+#### 268. Missing Number
+
+## Linked List
+
+#### 206. Reverse Linked List
+#### 92. Reverse Linked List II
+#### 141. Linked List Cycle
+#### 19. Remove Nth Node From End of List
+#### 142. Linked List Cycle II
+#### 876. Middle of the Linked List
+#### 21. Merge Two Sorted Lists
+#### 148. Sort List
+
+## Math
+
+#### 9. Palindrome Number
+
+## Graph
+
+#### 200. Number of Islands
 
 ## Others
 #### 1249. Minimum Remove to Make Valid Parentheses
